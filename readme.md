@@ -1,6 +1,6 @@
 # Hello I am Pectorel
 
-I am a junior web developer currently learning front end libraries like React and frameworks like Qwik
+I am a web developer currently learning front end libraries like React and frameworks like Qwik
 
 ### Here is my current Tech Stack :
 
